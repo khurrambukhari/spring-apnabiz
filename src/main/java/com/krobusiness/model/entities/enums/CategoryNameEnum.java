@@ -1,0 +1,6 @@
+package com.krobusiness.model.entities.enums;
+
+public enum CategoryNameEnum {
+    ACTIVE, FUN, CREATIVE, RELAX, INTELLECTUAL, SOCIAL, OTHER, PETS, STORE , CARS, PROPERTY, FURNITURE, MOBILE_PHONES, HOUSES,
+    ELECTRONICS_HOME_APPLICANCES, MOTORCYCLES ;
+}
